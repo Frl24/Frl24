@@ -17,10 +17,6 @@ Welcome to my GitHub profile! I love building software solutions, experimenting 
 
 ---
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats & Trophies
-
 <!-- GitHub Profile Trophy -->
 ### 📊 GitHub Stats
 

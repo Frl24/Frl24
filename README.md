@@ -19,9 +19,18 @@ Welcome to my GitHub profile! I love building software solutions, experimenting 
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats & Trophies
+
+<!-- GitHub Profile Trophy -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frl24&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frl24&layout=compact&theme=tokyonight" width="45%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Frl24&theme=onedark&column=6" alt="Frl24 Trophies" />
+  </a>
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frl24&theme=react-dark" width="100%" />
 </p>
 
 <p align="center">

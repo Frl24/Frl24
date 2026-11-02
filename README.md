@@ -19,13 +19,11 @@ Welcome to my GitHub profile! I love building software solutions, experimenting 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frl24&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frl24&layout=compact&theme=tokyonight" width="45%" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frl24&theme=tokyonight" width="93%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frl24&show_icons=true&theme=tokyonight&cache_seconds=1800" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frl24&layout=compact&theme=tokyonight&cache_seconds=1800" width="350" />
 </p>
 
 ---

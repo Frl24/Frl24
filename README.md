@@ -1,6 +1,6 @@
 # Hi there, I'm M. Firli Desebriansyah 👋
 
-🎓 **Informatics Student** | 💻 **C++ & Web Engineering Enthusiast**
+🎓 **Student** | 💻 **C++ & Web Engineering Enthusiast**
 
 Welcome to my GitHub profile! I love building software solutions, experimenting with systems, and exploring modern web tools.
 
